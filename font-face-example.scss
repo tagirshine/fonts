@@ -1,0 +1,139 @@
+
+@font-face {
+  font-family: 'icomoon';
+  src:font-url('icomoon.eot?-kml6o6');
+  src:font-url('icomoon.eot?#iefix-kml6o6') format('embedded-opentype'),
+  font-url('icomoon.woff?-kml6o6') format('woff'),
+  font-url('icomoon.ttf?-kml6o6') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+//  -webkit-font-smoothing: antialiased;
+//  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-down:before {
+  content: "\e612";
+}
+.icon-left:before {
+  content: "\e613";
+}
+.icon-right:before {
+  content: "\e614";
+}
+.icon-top:before {
+  content: "\e615";
+}
+.icon-android:before {
+  content: "\e600";
+}
+.icon-apartment:before {
+  content: "\e601";
+}
+.icon-aviasales:before {
+  content: "\e602";
+}
+.icon-decstop:before {
+  content: "\e603";
+}
+.icon-expand:before {
+  content: "\e604";
+}
+.icon-facebook:before {
+  content: "\e605";
+}
+.icon-free:before {
+  content: "\e606";
+}
+.icon-googpl:before {
+  content: "\e607";
+}
+.icon-hostel:before {
+  content: "\e608";
+}
+.icon-hotel:before {
+  content: "\e609";
+}
+.icon-iphone:before {
+  content: "\e60a";
+}
+.icon-mobile:before {
+  content: "\e60b";
+}
+.icon-plus:before {
+  content: "\e60c";
+}
+.icon-quest:before {
+  content: "\e60d";
+}
+.icon-search:before {
+  content: "\e60e";
+}
+.icon-star:before {
+  content: "\e60f";
+}
+.icon-twitter:before {
+  content: "\e610";
+}
+.icon-vk:before {
+  content: "\e611";
+}
+
+.icon-calendar:before {
+  content: "\e612";
+}
+
+.icon-chevron-left:before {
+  content: "\e613";
+}
+
+.icon-chevron-right:before {
+  content: "\e614";
+}
+
+.icon-close:before {
+  content: "\e615";
+}
+//icomoon end
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 500;
+  font-style: normal;
+  src: font-url('OpenSans-Regular-withRuble.eot');
+  src: font-url('OpenSans-Regular-withRuble.eot?#iefix') format('embedded-opentype'), font-url('OpenSans-Regular-withRuble.woff2') format('woff2'), font-url('OpenSans-Regular-withRuble.woff') format('woff'), font-url('OpenSans-Regular-withRuble.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: font-url('OpenSans-Bold.eot');
+  src: font-url('OpenSans-Bold.eot?#iefix') format('embedded-opentype'), font-url('OpenSans-Bold.woff2') format('woff2'), font-url('OpenSans-Bold.woff') format('woff'), font-url('OpenSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: font-url('OpenSans-Semibold.eot');
+  src: font-url('OpenSans-Semibold.eot#iefix') format('embedded-opentype'), font-url('OpenSans-Semibold.woff2') format('woff2'), font-url('OpenSans-Semibold.woff') format('woff'), font-url('OpenSans-Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: font-url('OpenSans-Light.eot');
+  src: font-url('OpenSans-Light.eot#iefix') format('embedded-opentype'), font-url('OpenSans-Light.woff2') format('woff2'), font-url('OpenSans-Light.woff') format('woff'), font-url('OpenSans-Light.ttf') format('truetype');
+}
