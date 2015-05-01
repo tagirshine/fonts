@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?-fcacws');
-	src:url('fonts/icomoon.eot?#iefix-fcacws') format('embedded-opentype'),
-		url('fonts/icomoon.woff?-fcacws') format('woff'),
-		url('fonts/icomoon.ttf?-fcacws') format('truetype'),
-		url('fonts/icomoon.svg?-fcacws#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?-vvt3cy');
+	src:url('fonts/icomoon.eot?#iefix-vvt3cy') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-vvt3cy') format('woff'),
+		url('fonts/icomoon.ttf?-vvt3cy') format('truetype'),
+		url('fonts/icomoon.svg?-vvt3cy#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -21,6 +21,14 @@
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-location:before {
+	content: "\e618";
+}
+
+.icon-like:before {
+	content: "\e617";
 }
 
 .icon-load:before {
@@ -115,29 +123,3 @@
 	content: "\e611";
 }
 
-
-.icon-load {
-  display: inline-block;
-  -webkit-animation: spin 2s infinite linear;
-  animation: spin 2s infinite linear;
-}
-@-webkit-keyframes spin {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(359deg);
-    transform: rotate(359deg);
-  }
-}
-@keyframes spin {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(359deg);
-    transform: rotate(359deg);
-  }
-}
