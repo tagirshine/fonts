@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?vvui0u');
-	src:url('fonts/icomoon.eot?#iefixvvui0u') format('embedded-opentype'),
-		url('fonts/icomoon.woff?vvui0u') format('woff'),
-		url('fonts/icomoon.ttf?vvui0u') format('truetype'),
-		url('fonts/icomoon.svg?vvui0u#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?18rfs9');
+	src:url('fonts/icomoon.eot?#iefix18rfs9') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?18rfs9') format('truetype'),
+		url('fonts/icomoon.woff?18rfs9') format('woff'),
+		url('fonts/icomoon.svg?18rfs9#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,21 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-key:before {
+	content: "\e625";
+}
+.icon-label:before {
+	content: "\e626";
+}
+.icon-loupe:before {
+	content: "\e627";
+}
+.icon-person:before {
+	content: "\e628";
+}
+.icon-scales:before {
+	content: "\e629";
+}
 .icon-discount .path1:before {
 	content: "\e61d";
 	color: rgb(68, 68, 68);
@@ -42,132 +57,99 @@
 	margin-left: -1em;
 	color: rgb(255, 255, 255);
 }
-
 .icon-city:before {
 	content: "\e61b";
 }
-
 .icon-curved-arrow:before {
 	content: "\e61c";
 }
-
 .icon-heart:before {
 	content: "\e61e";
 }
-
 .icon-hotel2:before {
 	content: "\e61f";
 }
-
 .icon-info:before {
 	content: "\e620";
 }
-
 .icon-next:before {
 	content: "\e619";
 }
-
 .icon-prev:before {
 	content: "\e61a";
 }
-
 .icon-location:before {
 	content: "\e618";
 }
-
 .icon-like:before {
 	content: "\e617";
 }
-
 .icon-load:before {
 	content: "\e616";
 }
-
 .icon-calendar:before {
 	content: "\e612";
 }
-
 .icon-chevron-left:before {
 	content: "\e613";
 }
-
 .icon-chevron-right:before {
 	content: "\e614";
 }
-
 .icon-close:before {
 	content: "\e615";
 }
-
 .icon-android:before {
 	content: "\e600";
 }
-
 .icon-apartment:before {
 	content: "\e601";
 }
-
 .icon-aviasales:before {
 	content: "\e602";
 }
-
 .icon-decstop:before {
 	content: "\e603";
 }
-
 .icon-expand:before {
 	content: "\e604";
 }
-
 .icon-facebook:before {
 	content: "\e605";
 }
-
 .icon-free:before {
 	content: "\e606";
 }
-
 .icon-googpl:before {
 	content: "\e607";
 }
-
 .icon-hostel:before {
 	content: "\e608";
 }
-
 .icon-hotel:before {
 	content: "\e609";
 }
-
 .icon-iphone:before {
 	content: "\e60a";
 }
-
 .icon-mobile:before {
 	content: "\e60b";
 }
-
 .icon-plus:before {
 	content: "\e60c";
 }
-
 .icon-quest:before {
 	content: "\e60d";
 }
-
 .icon-search:before {
 	content: "\e60e";
 }
-
 .icon-star:before {
 	content: "\e60f";
 }
-
 .icon-twitter:before {
 	content: "\e610";
 }
-
 .icon-vk:before {
 	content: "\e611";
 }
-
